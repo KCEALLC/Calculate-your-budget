@@ -1,4 +1,4 @@
-# Calucate-your-budget
+# Calculate-your-budget
 Budget Calculator built with JavaScript
 
 Calculate you spending with a simple budget calculator.
