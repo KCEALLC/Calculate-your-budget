@@ -1,2 +1,2 @@
-# Calucate-your-budget
+# Calculate-your-budget
 Budget Calculator built with JavaScript
